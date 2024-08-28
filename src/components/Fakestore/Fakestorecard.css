@@ -1,0 +1,32 @@
+*{
+  padding:0px;
+  margin:10px;
+}
+.Fakestorecard-card{
+    height:450px;
+    width:300px;
+    box-shadow: 5px 5px 10px grey;
+    margin:20px;
+    padding:10px;
+    position:relative;
+}
+.Fakestorecard-card img{
+  height:250px;
+   width:100%;
+}
+#fakestotrcard-buynow{
+  width:100%;
+  height:40px;
+  color:white;
+  font-weight: bold;
+  font-size:1.2rem;
+  text-align: center;
+  background-color:  #1f2525;
+  /* rgb(80, 47, 47) */
+  border-radius:10px;
+  padding-top:5px;
+  position:absolute;
+  bottom:5px;
+  right:0px;
+ 
+}

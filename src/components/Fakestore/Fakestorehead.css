@@ -1,0 +1,19 @@
+.fakestore-head-name{
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-left:35px;
+}
+.fakestore-header{
+   
+    padding-top: 20px;
+    height:90px;
+    background-color:#1f2525;
+    color:white;
+}
+.fakestore-head-div{
+    font-size: 1.5rem;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-right:35px;
+}

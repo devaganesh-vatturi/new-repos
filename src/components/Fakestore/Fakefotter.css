@@ -1,0 +1,13 @@
+.fakefotter-end{
+    height: 150px;
+    width:100vw;
+    background-color: #1f2525;
+    color:white;
+    text-align: center;
+
+}
+#fakefot-paragraph{
+    font-size:3rem;
+    font-weight:bold;
+
+}
